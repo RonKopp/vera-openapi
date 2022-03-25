@@ -12,6 +12,7 @@
 De mappen **Informatiedomeinen** en **Ketenprocessen** bevatten alle OpenAPI-specificaties (YAML).
 Alle overige bestanden in deze repo (in de root en in map 'docs') zijn enkel bedoeld voor documentatie en horen niet bij de opleverset.
 Op deze pagina staat een toelichting op de totstandkoming en toepassing van de API's.
+Aangepast
 
 ## Viewers
 Hieronder staan links naar SwaggerUI views op de API's. 
